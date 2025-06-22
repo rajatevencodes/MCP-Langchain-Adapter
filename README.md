@@ -1,5 +1,9 @@
 # MCP Langchain Adapter
 
+Official Docs :
+https://github.com/langchain-ai/langchain-mcp-adapters
+https://github.com/langchain-ai/langchain-mcp-adapters/blob/a8d05174fa2abf8bf3abcb40e8e05efd5190b812/langchain_mcp_adapters/client.py#L35
+
 This project demonstrates how to use LangChain's MultiServerMCPClient to connect to multiple MCP (Model Context Protocol) servers and create an agent that can use tools from both servers.
 
 ## Project Structure
